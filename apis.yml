@@ -1,8 +1,31 @@
 aid: earth-ai
-name: Earth Ai
-description: Earth Ai is a company surfaced as a portfolio company of dcvc and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Earth AI
+description: >-
+  Earth AI is a vertically integrated, AI-powered mineral exploration company
+  that discovers, develops, and owns critical mineral mines for the emerging
+  hardware economy — data centers, humanoid robots, eVTOL aircraft, fusion
+  energy, space, and defense. Its proprietary predictive model, MTP, is trained
+  on roughly 400 million geological sites to identify the source rocks of new
+  mineral deposits and dramatically compress traditional exploration timelines.
+  The company vertically integrates the search for critical minerals: it
+  predicts targets with AI, acquires mineral rights, and drills to prove and own
+  the resource. Earth AI is backed by DCVC and has been profiled by TechCrunch,
+  Business Insider, and The Generalist's Future 50. This profile is maintained
+  in the API Evangelist network; Earth AI does not currently publish a public
+  developer API, SDKs, or API documentation.
 url: https://raw.githubusercontent.com/api-evangelist/earth-ai/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://images.prismic.io/earth-ai-static/aixXh6lQnVZVETX4_EAI_Ground_01.png?auto=format,compress&rect=0,36,1920,1008&w=1200&h=630
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +34,45 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Artificial Intelligence
+- Critical Minerals
+- Mineral Exploration
+- Mining
+- Geospatial
+- Geoscience
+- Machine Learning
+- Natural Resources
+- Climate Tech
 apis: []
+common:
+- type: DomainSecurity
+  url: security/earth-ai-domain-security.yml
+- type: Website
+  url: https://www.earth-ai.com/
+- type: TermsOfService
+  url: https://www.earth-ai.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.earth-ai.com/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/earth-ai/
+- type: Twitter
+  url: https://x.com/earthaiexplore
+- type: YouTube
+  url: https://www.youtube.com/@earthaiexplore
+- type: Instagram
+  url: https://www.instagram.com/earthaiexplore/
+- type: TikTok
+  url: https://www.tiktok.com/@earthaiexplore
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
