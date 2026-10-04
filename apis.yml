@@ -54,7 +54,7 @@ tags:
 - Mining
 - Geospatial
 - Geoscience
-- Machine-Learning
+- Machine Learning
 - Natural Resources
 - Climate Tech
 tags_raw:
@@ -68,6 +68,7 @@ tags_raw:
 - Machine Learning
 - Natural Resources
 - Climate Tech
+- Machine-Learning
 apis: []
 common:
 - type: DomainSecurity
