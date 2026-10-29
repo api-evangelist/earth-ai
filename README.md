@@ -1,4 +1,4 @@
-# Earth Ai
+# Earth AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Earth Ai is a company surfaced as a portfolio company of dcvc and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Earth AI is a vertically integrated, AI-powered mineral exploration company that discovers, develops, and owns critical mineral mines for the emerging hardware economy — data centers, humanoid robots, eVTOL aircraft, fusion energy, space, and defense. Its proprietary predictive model, MTP, is trained on roughly 400 million geological sites to identify the source rocks of new mineral deposits and dramatically compress traditional exploration timelines. The company vertically integrates the search for critical minerals: it predicts targets with AI, acquires mineral rights, and drills to prove and own the resource. Earth AI is backed by DCVC and has been profiled by TechCrunch, Business Insider, and The Generalist's Future 50. This profile is maintained in the API Evangelist network; Earth AI does not currently publish a public developer API, SDKs, or API documentation.
 
-Backed by: dcvc
+**Areas:** Company · Artificial Intelligence · Critical Minerals · Mineral Exploration · Mining · Geospatial · Geoscience · Machine Learning · Natural Resources · Climate Tech
+
+## Earth AI on APIs.io
+
+Everything profiled for Earth AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/earth-ai/](https://apis.io/providers/earth-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Earth Ai Domain Security](https://apis.io/security/earth-ai/earth-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.earth-ai.com/)
+- [Terms of service](https://www.earth-ai.com/terms-of-service)
+- [Privacy policy](https://www.earth-ai.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 8.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/earth-ai/](https://apis.io/providers/earth-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Earth AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/earth-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
